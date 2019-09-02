@@ -1,2 +1,2 @@
-# Hello-World
-Command= Hello World
+# Hello World
+ Using the cmd < Print("hello World") >
